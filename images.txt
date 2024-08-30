@@ -1,4 +1,4 @@
 funcman/115pc:latest
 nastool/nas-tools:latest
 dzhuang/tinymediamanager:latest
-allanpk716/ChineseSubFinder
+allanpk716/ChineseSubFinder-Web:latest
